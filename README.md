@@ -116,7 +116,7 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 
 ### 📢 Connect with Me  
 <div>
-    <a href="www.linkedin.com/in/rayyanmerchant2004/">
+    <a href="https://www.linkedin.com/in/rayyanmerchant2004/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     <a href="https://www.reddit.com/">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
