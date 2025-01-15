@@ -83,13 +83,13 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 
 ### 📞 Connect with Me  
 <div>
-    <a href="https://www.linkedin.com/in/rayyanmerchant">
+    <a href="www.linkedin.com/in/rayyanmerchant2004">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/rayyan_ai">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <a href="https://www.reddit.com">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Reddit"/>
     </a>
-    <a href="mailto:rayyanmerchant@example.com">
+    <a href="mailto:merchantrayyan43@gmail.com">
         <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
 </div>
