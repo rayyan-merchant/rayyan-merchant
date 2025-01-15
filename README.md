@@ -149,8 +149,10 @@ Let’s connect, share ideas, and build something amazing together! 🤝
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/your-resume-link-here" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer" alt="footer"/>
-
 **⚡ Fun Fact**: I believe in *“failing forward”*—every setback is just a plot twist in the story of success. 🌟  
 
 ✨ Let’s create a smarter, more connected future, one line of code at a time. 💻
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer" alt="footer"/>
+
+
