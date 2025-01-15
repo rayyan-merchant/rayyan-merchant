@@ -14,65 +14,90 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+    Hey there, I'm Rayyan Merchant!
+    Thanks for exploring my GitHub profile.
+    Feel free to connect and collaborate!
+-->
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=header" alt="header"/>
 
-# Hi there! 👋 I'm Rayyan Merchant  
-
-Welcome to my GitHub profile! I'm an **Artificial Intelligence Student** passionate about exploring the limitless possibilities of AI and Machine Learning.  
-
----
-
-## 🚀 About Me  
-- 🎓 **Student of AI**, delving into Machine Learning, Deep Learning, and Data Science.  
-- 💡 Curious and creative problem-solver with a passion for innovative tech.  
-- 🌍 Love collaborating on impactful projects that make a difference.  
-
----
-
-## 🔧 Skills  
-### 👨‍💻 Programming Languages  
-- **Python** 🐍 | **C++** | **SQL** | **JavaScript**
-
-### 📊 AI & ML Tools  
-- **Scikit-learn** | **TensorFlow** | **Keras** | **PyTorch**  
-
-### 🛠️ Other Tools  
-- **Pandas** | **NumPy** | **Matplotlib** | **Seaborn**  
-- **Git/GitHub** | **VS Code**  
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0f4c81&width=435&lines=Hello%2C+I'm+Rayyan+Merchant;AI+Enthusiast+%7C+Problem-Solver;Student+%7C+Developer+%7C+Innovator" alt="Typing SVG"/>
+</a>
 
 ---
 
-## 🌟 Projects  
-### 1. 🩺 **Disease Prediction Systems**  
-- Built predictive models for **heart disease**, **diabetes**, **Parkinson's disease**, and **breast cancer**.  
-- 🛠️ Used ML algorithms like Logistic Regression, Decision Trees, and Random Forests.  
-- 📈 Enhanced accuracy with data preprocessing and feature selection.  
+### About Me  
+Hey there! I'm Rayyan, a passionate **Artificial Intelligence Student** dedicated to building intelligent systems that tackle real-world problems. Whether it's designing predictive models or exploring new AI technologies, I love turning ideas into impactful solutions.
 
-### 2. 🌐 **Interactive Diabetes Prediction App**  
-- Designed a user-friendly app for diabetes prediction using Flask.  
-- 🎨 Integrated interactive visualizations with **Plotly** and **Dash**.  
-
-### 3. 📚 **Database Memory Management**  
-- Implemented **Binary Search Tree**, **AVL Tree**, and **B-Tree** for efficient data storage.  
-- 🕒 Analyzed performance for large datasets using timing functions.  
-
-[**Explore More Projects →**](#)  
+- 🎓 **Studying AI and Machine Learning**  
+- 🛠️ Skilled in building **predictive models**, **data analysis**, and **visualizations**  
+- 🌍 Inspired to make a difference through technology  
 
 ---
 
-## 📈 GitHub Stats  
+### 🚀 My Mission  
+I aim to leverage AI to empower innovation, simplify complex challenges, and contribute to transformative advancements in technology.
 
+---
+
+### 🛠 Skills  
+#### Programming & Tools  
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,sql,js,html,css,flask,git,github,visualstudio,vscode,aws)](https://skillicons.dev)
+
+#### AI/ML Libraries  
+[![AI/ML Libraries](https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn)](https://skillicons.dev)
+
+---
+
+### 🌟 Projects  
+#### 🩺 Disease Prediction Systems  
+- Created models for **diabetes**, **heart disease**, and **breast cancer** prediction.  
+- Tools: **Scikit-learn**, **Matplotlib**, and **Pandas**.  
+
+#### 🌐 Interactive Diabetes Prediction App  
+- Built a **Flask-based web app** for user-friendly predictions.  
+- Added interactive visualizations using **Plotly**.  
+
+#### 📚 Database Memory Management  
+- Implemented **Binary Search Tree**, **AVL Tree**, and **B-Tree** for efficient data operations.  
+- Conducted performance analysis on large datasets.  
+
+Check out more of my [**Projects**](#)!  
+
+---
+
+### 🌱 Currently Exploring  
+- Advanced **Deep Learning Architectures**  
+- **Natural Language Processing (NLP)**  
+- Cloud platforms like **AWS** and **Azure**  
+
+---
+
+### 📈 GitHub Stats  
 ![Rayyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanmerchant&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanmerchant&layout=compact&theme=radical)  
 
 ---
 
-## 🤝 Connect with Me  
-- 🌐 **Portfolio**: [rayyanmerchant.dev](https://rayyanmerchant.dev)  
-- 💼 **LinkedIn**: [linkedin.com/in/rayyanmerchant](https://linkedin.com/in/rayyanmerchant)  
-- 🐦 **Twitter**: [@rayyan_ai](https://twitter.com/rayyan_ai)  
+### Connect with Me!  
+<div>
+    <a href="https://www.linkedin.com/in/rayyanmerchant">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/rayyan_ai">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="mailto:rayyanmerchant@example.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</div>
 
 ---
 
-### 🌱 “AI is not just a field of study, it's a way to empower the world.”  
-Feel free to explore my repositories and reach out for collaborations or discussions. Let's build the future together! 🌌  
+### 📄 Employer?  
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/your-resume-link-here" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer" alt="footer"/>
