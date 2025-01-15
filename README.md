@@ -64,14 +64,13 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 ### 💻 Projects  
 
 <!-- Project cards -->
-[![Diabetes Prediction System](diabetes.png)]
-(https://github.com/rayyan-merchant/PAI-Project)
+[![Diabetes Prediction System](diabetes.png "Diabetes Prediction System")](https://github.com/rayyan-merchant/PAI-Project)
 
-[![Heart Disease Classifier](https://ytcards.demolab.com/?id=124&title=Heart+Disease+Classifier&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0 "Heart Disease Classifier")](https://github.com/username/heart-disease-classifier)
+[![House Price Prediction](house.jpeg "House Price Prediction")](https://github.com/username/heart-disease-classifier)
 
-[![Breast Cancer Detection](https://ytcards.demolab.com/?id=125&title=Breast+Cancer+Detection+System&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0 "Breast Cancer Detection System")](https://github.com/username/breast-cancer-detection)
+[![Healthcare App](multipledisease.png "Healthcare App")](https://github.com/username/breast-cancer-detection)
 
-[![Database Memory Management](https://ytcards.demolab.com/?id=126&title=Database+Memory+Management&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0 "Database Memory Management")](https://github.com/username/database-memory-management)
+[![Movie Recommendation System](recommendation.jpeg "Movie Recommendation System")](https://github.com/username/database-memory-management)
 
 ---
 
