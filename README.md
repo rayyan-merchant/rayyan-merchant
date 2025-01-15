@@ -45,14 +45,11 @@ I believe that **technology isn’t just a tool**—it’s a canvas for creativi
 Here’s what fuels my journey:  
 - 🧠 **Lifelong Learner**: Every day is an opportunity to grow, to experiment, and to create. I thrive on challenges that push boundaries.  
 - 🌱 **Explorer of Ideas**: From crafting predictive models to unraveling the secrets of data, I’m on a mission to make sense of the complex.  
-- 💡 **Problem Solver**: For me, every problem is a puzzle waiting to be solved, and every solution is a step toward making the world smarter and better.  
+- 💡 **Problem Solver**: For me, every problem is a puzzle waiting to be solved, and every solution is a step toward making the world smarter and better.
+  
+Let’s connect, share ideas, and build something amazing together! 🤝  
 
 📖 *"Dream big, start small, but most of all, start."*  
----
-
-**⚡ Fun Fact**: I believe in *“failing forward”*—every setback is just a plot twist in the story of success. 🌟  
-
-✨ Let’s create a smarter, more connected future, one line of code at a time. 💻
 ---
 
 ### 🛠️ Skills  
@@ -157,3 +154,6 @@ Here’s what fuels my journey:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer" alt="footer"/>
 
+**⚡ Fun Fact**: I believe in *“failing forward”*—every setback is just a plot twist in the story of success. 🌟  
+
+✨ Let’s create a smarter, more connected future, one line of code at a time. 💻
