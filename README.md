@@ -51,7 +51,6 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 
 #### Frameworks and Libraries  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
@@ -110,6 +109,8 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 - **NLP (Natural Language Processing)**  
 - **Agentic AI**  
 - **R Programming**
+- **Tensor Flow**
+- **PyTorch**
 
 ---
 
