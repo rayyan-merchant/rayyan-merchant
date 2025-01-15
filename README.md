@@ -64,7 +64,8 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 ### 💻 Projects  
 
 <!-- Project cards -->
-[![Diabetes Prediction System](diabetes.png)
+[![Diabetes Prediction System](diabetes.png)]
+(https://github.com/rayyan-merchant/PAI-Project)
 
 [![Heart Disease Classifier](https://ytcards.demolab.com/?id=124&title=Heart+Disease+Classifier&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=0 "Heart Disease Classifier")](https://github.com/username/heart-disease-classifier)
 
