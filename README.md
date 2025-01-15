@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     Welcome to my GitHub profile.
     Feel free to connect, explore, and collaborate!
 -->
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌟 About Me  
+### ✨ About Me  
 I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for solving real-world problems through technology. I love working with data, building intelligent systems, and creating meaningful solutions.
 
 - 🎓 **AI and Machine Learning Student**  
@@ -48,40 +47,73 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)  
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 #### Frameworks and Libraries  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-%232E4053.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-#### Tools and Platforms  
+#### Tools  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white)
 
 ---
 
 ### 💻 Projects  
 
-<!-- Project cards -->
-[![Diabetes Prediction System](diabetes.png "Diabetes Prediction System")](https://github.com/rayyan-merchant/PAI-Project)
-
-[![House Price Prediction](house.jpeg "House Price Prediction")](https://github.com/username/heart-disease-classifier)
-
-[![Healthcare App](multipledisease.png "Healthcare App")](https://github.com/username/breast-cancer-detection)
-
-[![Movie Recommendation System](recommendation.jpeg "Movie Recommendation System")](https://github.com/username/database-memory-management)
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/rayyan-merchant/PAI-Project">
+                    <img src="diabetes.png" alt="Diabetes Prediction System" width="300px" />
+                    <br />
+                    <b>Diabetes Prediction System</b>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/username/heart-disease-classifier">
+                    <img src="house.jpeg" alt="House Price Prediction" width="300px" />
+                    <br />
+                    <b>House Price Prediction</b>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/username/breast-cancer-detection">
+                    <img src="multipledisease.png" alt="Healthcare App" width="300px" />
+                    <br />
+                    <b>Healthcare App</b>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/username/database-memory-management">
+                    <img src="recommendation.jpeg" alt="Movie Recommendation System" width="300px" />
+                    <br />
+                    <b>Movie Recommendation System</b>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ---
 
-### 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayyanmerchant&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayyanmerchant&layout=compact&theme=radical)
+### 🔄 Learning  
+- **NLP (Natural Language Processing)**  
+- **Agentic AI**  
+- **R Programming**
 
 ---
 
-### 📞 Connect with Me  
+### 📢 Connect with Me  
 <div>
     <a href="www.linkedin.com/in/rayyanmerchant2004">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -101,3 +133,4 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
 > <a href="https://drive.google.com/drive/folders/your-resume-link-here" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer" alt="footer"/>
+
