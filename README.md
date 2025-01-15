@@ -79,7 +79,7 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
             </td>
             <td align="center" style="border: none;">
                 <a href="https://github.com/username/heart-disease-classifier">
-                    <img src="house.jpeg" alt="House Price Prediction" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                    <img src="house.png" alt="House Price Prediction" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
                 </a>
                 <h3>House Price Prediction</h3>
                 <a href="https://github.com/username/heart-disease-classifier" style="text-decoration: none;">
@@ -90,7 +90,7 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
         <tr>
             <td align="center" style="border: none;">
                 <a href="https://github.com/username/breast-cancer-detection">
-                    <img src="multipledisease.png" alt="Healthcare App" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                    <img src="healthcare.png" alt="Healthcare App" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
                 </a>
                 <h3>Healthcare App</h3>
                 <a href="https://github.com/username/breast-cancer-detection" style="text-decoration: none;">
@@ -99,7 +99,7 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
             </td>
             <td align="center" style="border: none;">
                 <a href="https://github.com/username/database-memory-management">
-                    <img src="recommendation.jpeg" alt="Movie Recommendation System" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                    <img src="recommendation.png" alt="Movie Recommendation System" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
                 </a>
                 <h3>Movie Recommendation System</h3>
                 <a href="https://github.com/username/database-memory-management" style="text-decoration: none;">
