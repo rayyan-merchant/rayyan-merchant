@@ -70,41 +70,46 @@ I’m Rayyan, a **Machine Learning and AI enthusiast** driven by a passion for s
         <tr>
             <td align="center" style="border: none;">
                 <a href="https://github.com/rayyan-merchant/PAI-Project">
-                    <img src="diabetes.png" alt="Diabetes Prediction System" width="300px" />
-                    <br />
-                    <b>Diabetes Prediction System</b>
+                    <img src="diabetes.png" alt="Diabetes Prediction System" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
                 </a>
-                <p><a href="https://github.com/rayyan-merchant/PAI-Project">🔗 View Code</a></p>
+                <h3>Diabetes Prediction System</h3>
+                <a href="https://github.com/rayyan-merchant/PAI-Project" style="text-decoration: none;">
+                    <img src="https://img.shields.io/badge/🔗-View%20Code-blue?style=for-the-badge" alt="View Code">
+                </a>
             </td>
             <td align="center" style="border: none;">
                 <a href="https://github.com/username/heart-disease-classifier">
-                    <img src="house.jpeg" alt="House Price Prediction" width="300px" />
-                    <br />
-                    <b>House Price Prediction</b>
+                    <img src="house.jpeg" alt="House Price Prediction" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
                 </a>
-                <p><a href="https://github.com/username/heart-disease-classifier">🔗 View Code</a></p>
+                <h3>House Price Prediction</h3>
+                <a href="https://github.com/username/heart-disease-classifier" style="text-decoration: none;">
+                    <img src="https://img.shields.io/badge/🔗-View%20Code-blue?style=for-the-badge" alt="View Code">
+                </a>
             </td>
         </tr>
         <tr>
             <td align="center" style="border: none;">
                 <a href="https://github.com/username/breast-cancer-detection">
-                    <img src="multipledisease.png" alt="Healthcare App" width="300px" />
-                    <br />
-                    <b>Healthcare App</b>
+                    <img src="multipledisease.png" alt="Healthcare App" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
                 </a>
-                <p><a href="https://github.com/username/breast-cancer-detection">🔗 View Code</a></p>
+                <h3>Healthcare App</h3>
+                <a href="https://github.com/username/breast-cancer-detection" style="text-decoration: none;">
+                    <img src="https://img.shields.io/badge/🔗-View%20Code-blue?style=for-the-badge" alt="View Code">
+                </a>
             </td>
             <td align="center" style="border: none;">
                 <a href="https://github.com/username/database-memory-management">
-                    <img src="recommendation.jpeg" alt="Movie Recommendation System" width="300px" />
-                    <br />
-                    <b>Movie Recommendation System</b>
+                    <img src="recommendation.jpeg" alt="Movie Recommendation System" width="280px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
                 </a>
-                <p><a href="https://github.com/username/database-memory-management">🔗 View Code</a></p>
+                <h3>Movie Recommendation System</h3>
+                <a href="https://github.com/username/database-memory-management" style="text-decoration: none;">
+                    <img src="https://img.shields.io/badge/🔗-View%20Code-blue?style=for-the-badge" alt="View Code">
+                </a>
             </td>
         </tr>
     </table>
 </div>
+
 
 
 ---
