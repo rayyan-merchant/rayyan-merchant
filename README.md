@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 
 ---
 
-Here’s a creative and motivational “About Me” section tailored for your GitHub profile:
-
----
-
 ### 🌟 About Me  
 
 Hey there! 👋 I’m **Rayyan Merchant**, a tech enthusiast on a relentless quest to turn ideas into impactful solutions. 🚀  
