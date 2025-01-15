@@ -46,10 +46,11 @@ Here’s what fuels my journey:
 - 🧠 **Lifelong Learner**: Every day is an opportunity to grow, to experiment, and to create. I thrive on challenges that push boundaries.  
 - 🌱 **Explorer of Ideas**: From crafting predictive models to unraveling the secrets of data, I’m on a mission to make sense of the complex.  
 - 💡 **Problem Solver**: For me, every problem is a puzzle waiting to be solved, and every solution is a step toward making the world smarter and better.
-  
-Let’s connect, share ideas, and build something amazing together! 🤝  
 
 📖 *"Dream big, start small, but most of all, start."*  
+
+Let’s connect, share ideas, and build something amazing together! 🤝  
+
 ---
 
 ### 🛠️ Skills  
