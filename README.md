@@ -1,34 +1,12 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<!--
-**rayyan-merchant/rayyan-merchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-    Hey there, I'm Rayyan Merchant!
-    Thanks for exploring my GitHub profile.
-    Feel free to connect and collaborate!
--->
-
-<!--
-    Hey there, I'm Rayyan Merchant!
-    Welcome to my GitHub profile.
-    Feel free to connect, explore, and collaborate!
--->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0f4c81&width=435&lines=Hello%2C+I'm+Rayyan+Merchant;AI+Enthusiast+%7C+Problem-Solver;Student+%7C+Developer+%7C+Innovator" alt="Typing SVG"/>
 </a>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rayyanmerchant2004" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/rayyanmerchant2004?trk=profile-badge">Rayyan Merchant</a></div>
 
 ---
 
