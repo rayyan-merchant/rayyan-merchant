@@ -1,7 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=header" alt="header"/>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rayyanmerchant2004" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/rayyanmerchant2004?trk=profile-badge">Rayyan Merchant</a></div>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0f4c81&width=435&lines=Hello%2C+I'm+Rayyan+Merchant;AI+Enthusiast+%7C+Problem-Solver;Student+%7C+Developer+%7C+Innovator" alt="Typing SVG"/>
+</a>
 
 ---
 
