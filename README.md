@@ -289,6 +289,22 @@ me.say_hi()
 </details>
 
 <details open>
+<summary><b>🔧 Automation & Integration</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>Skills:</b> Multi-Agent Systems • Workflow Automation • API Integrations • LLM-based Automation • Business Process Automation
+</p>
+
+</details>
+
+
+<details open>
 <summary><b>🗄️ Databases & Data Engineering</b></summary>
 <br>
 
@@ -337,6 +353,7 @@ me.say_hi()
 </div>
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#0f4c81','primaryTextColor':'#fff','primaryBorderColor':'#0f4c81','lineColor':'#0f4c81','secondaryColor':'#217346','tertiaryColor':'#FF6F00','background':'#ffffff','mainBkg':'#0f4c81','secondBkg':'#217346','tertiaryBkg':'#FF6F00','textColor':'#000000','fontSize':'16px'}}}%%
 mindmap
   root((Rayyan's Focus))
     ML Projects
@@ -355,6 +372,7 @@ mindmap
       Computer Vision
       Neural Architectures
       Transfer Learning
+      NLP
 ```
 
 ---
