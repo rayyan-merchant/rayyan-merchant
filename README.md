@@ -353,47 +353,31 @@ me.say_hi()
 </div>
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'darkMode': true,
-    'primaryColor': '#7c3aed',
-    'primaryTextColor': '#ffffff',
-    'primaryBorderColor': '#a78bfa',
-
-    'secondaryColor': '#15803d',
-    'secondaryTextColor': '#ffffff',
-    'secondaryBorderColor': '#22c55e',
-
-    'tertiaryColor': '#9a3412',
-    'tertiaryTextColor': '#ffffff',
-    'tertiaryBorderColor': '#f97316',
-
-    'textColor': '#ffffff',
-    'nodeTextColor': '#ffffff',
-    'lineColor': '#9ca3af',
-    'fontSize': '16px'
-  }
-}}%%
+%%{init: {'theme':'dark'}}%%
 mindmap
-  root((Rayyan's Focus))
-    ML Projects
-      End-to-end Systems
-      Production Deployment
-      Model Monitoring
-    Data Science
-      Advanced Analytics
-      Statistical Modeling
-      A/B Testing
-    AI Agents
-      Vertical Assistants
-      Autonomous Systems
-      Multi-Agent Orchestration
-    Deep Learning
-      Computer Vision
-      Neural Architectures
-      Transfer Learning
-      NLP
+  root((Rayyan's Focus)):::rootStyle
+    ML Projects:::branch
+      End-to-end Systems:::node
+      Production Deployment:::node
+      Model Monitoring:::node
+    Data Science:::branch
+      Advanced Analytics:::node
+      Statistical Modeling:::node
+      A/B Testing:::node
+    AI Agents:::branch
+      Vertical Assistants:::node
+      Autonomous Systems:::node
+      Multi-Agent Orchestration:::node
+    Deep Learning:::branch
+      Computer Vision:::node
+      Neural Architectures:::node
+      Transfer Learning:::node
+      NLP:::node
+
+classDef rootStyle fill:#22c55e,color:#ffffff,stroke:#16a34a,stroke-width:2px;
+classDef branch fill:#7c3aed,color:#ffffff,stroke:#a78bfa,stroke-width:1.5px;
+classDef node fill:#1f2937,color:#ffffff,stroke:#9ca3af;
+
 ```
 
 ---
