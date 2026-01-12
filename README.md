@@ -354,7 +354,7 @@ me.say_hi()
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'darkMode':'true','primaryColor':'#1e3a8a','primaryTextColor':'#ffffff','primaryBorderColor':'#3b82f6','secondaryColor':'#15803d','secondaryTextColor':'#ffffff','secondaryBorderColor':'#22c55e','tertiaryColor':'#9a3412','tertiaryTextColor':'#ffffff','tertiaryBorderColor':'#f97316','noteBkgColor':'#1f2937','noteTextColor':'#ffffff','fontSize':'16px'}}}%%
-mindmapp
+mindmap
   root((Rayyan's Focus))
     ML Projects
       End-to-end Systems
