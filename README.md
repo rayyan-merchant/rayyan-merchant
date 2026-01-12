@@ -60,71 +60,6 @@ I transform raw data and complex business problems into **production-ready syste
 ---
 
 <details>
-<summary><h3>🏥 Healthcare Predictive Analytics Suite</h3></summary>
-
-**Machine learning models for disease prediction and medical diagnosis**
-
-> Classification · Feature Engineering · Model Optimization · Healthcare ML
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-</p>
-
-**Disease Prediction Systems:**
-- 🫀 **Heart Disease Classification**: Logistic regression and random forest models for cardiovascular risk prediction
-- 💉 **Diabetes Prediction**: Ensemble models with hyperparameter tuning for early diabetes detection
-- 🧠 **Parkinson's Detection**: ML classifiers trained on vocal biomarkers for Parkinson's disease screening
-- 🎗️ **Breast Cancer Classification**: Binary classification models for malignant vs benign tumor prediction
-
-**Key Techniques:**
-- Feature engineering and selection for clinical datasets
-- Cross-validation and model evaluation metrics (AUC-ROC, F1-score, precision/recall)
-- Hyperparameter optimization for improved accuracy
-- Medical data preprocessing and handling imbalanced datasets
-
-**Context:** PAI Course Project (Principles of Artificial Intelligence)
-
-</details>
-
----
-
-<details>
-<summary><h3>🗄️ SQL Data Warehouse & Analytics Platform</h3></summary>
-
-**Scalable enterprise data warehouse with dimensional modeling**
-
-> ETL Workflows · Dimensional Modeling · Query Optimization · BI Infrastructure
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Warehousing-0f4c81?style=flat"/>
-  <img src="https://img.shields.io/badge/ETL-4285F4?style=flat"/>
-</p>
-
-**What I Built:**
-- 🏗️ **Star Schema Design**: Designed fact and dimension tables following Kimball methodology for analytical queries
-- 🔄 **ETL Pipeline**: Built extraction, transformation, and loading workflows for multi-source data integration
-- ⚡ **Query Optimization**: Implemented indexing strategies and materialized views for sub-second query performance
-- 📊 **Analytics Layer**: Created aggregated fact tables and analytical views for BI tools and reporting
-- 🔐 **Data Quality**: Implemented constraints, validation rules, and referential integrity for data governance
-
-**Demonstrated Skills:**
-- Dimensional modeling (star schema, snowflake schema)
-- Complex SQL queries (CTEs, window functions, subqueries)
-- Database performance tuning and optimization
-- Data warehouse architecture and best practices
-
-🔗 **Repository:** [SQL-DWH-Project](https://github.com/rayyan-merchant/SQL-DWH-Project)
-
-</details>
-
----
-
-<details>
 <summary><h3>📊 Data Analytics Portfolio</h3></summary>
 
 **Collection of business-oriented data analysis and visualization projects**
@@ -162,7 +97,6 @@ I transform raw data and complex business problems into **production-ready syste
 </details>
 
 ---
-
 <details>
 <summary><h3>🧠 LifeMirror — AI Perception Engine</h3></summary>
 
@@ -238,6 +172,72 @@ I transform raw data and complex business problems into **production-ready syste
 🔗 **Repository:** [Companion-MentalHealth](https://github.com/rayyan-merchant/Companion-MentalHealth)
 
 </details>
+
+---
+
+<details>
+<summary><h3>🗄️ SQL Data Warehouse & Analytics Platform</h3></summary>
+
+**Scalable enterprise data warehouse with dimensional modeling**
+
+> ETL Workflows · Dimensional Modeling · Query Optimization · BI Infrastructure
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Warehousing-0f4c81?style=flat"/>
+  <img src="https://img.shields.io/badge/ETL-4285F4?style=flat"/>
+</p>
+
+**What I Built:**
+- 🏗️ **Star Schema Design**: Designed fact and dimension tables following Kimball methodology for analytical queries
+- 🔄 **ETL Pipeline**: Built extraction, transformation, and loading workflows for multi-source data integration
+- ⚡ **Query Optimization**: Implemented indexing strategies and materialized views for sub-second query performance
+- 📊 **Analytics Layer**: Created aggregated fact tables and analytical views for BI tools and reporting
+- 🔐 **Data Quality**: Implemented constraints, validation rules, and referential integrity for data governance
+
+**Demonstrated Skills:**
+- Dimensional modeling (star schema, snowflake schema)
+- Complex SQL queries (CTEs, window functions, subqueries)
+- Database performance tuning and optimization
+- Data warehouse architecture and best practices
+
+🔗 **Repository:** [SQL-DWH-Project](https://github.com/rayyan-merchant/SQL-DWH-Project)
+
+</details>
+
+---
+
+<details>
+<summary><h3>🏥 Healthcare Predictive Analytics Suite</h3></summary>
+
+**Machine learning models for disease prediction and medical diagnosis**
+
+> Classification · Feature Engineering · Model Optimization · Healthcare ML
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+</p>
+
+**Disease Prediction Systems:**
+- 🫀 **Heart Disease Classification**: Logistic regression and random forest models for cardiovascular risk prediction
+- 💉 **Diabetes Prediction**: Ensemble models with hyperparameter tuning for early diabetes detection
+- 🧠 **Parkinson's Detection**: ML classifiers trained on vocal biomarkers for Parkinson's disease screening
+- 🎗️ **Breast Cancer Classification**: Binary classification models for malignant vs benign tumor prediction
+
+**Key Techniques:**
+- Feature engineering and selection for clinical datasets
+- Cross-validation and model evaluation metrics (AUC-ROC, F1-score, precision/recall)
+- Hyperparameter optimization for improved accuracy
+- Medical data preprocessing and handling imbalanced datasets
+
+**Context:** PAI Course Project (Principles of Artificial Intelligence)
+
+</details>
+
 
 ---
 
