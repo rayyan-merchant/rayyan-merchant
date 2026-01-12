@@ -354,7 +354,7 @@ me.say_hi()
 
 
 <p align="center">
-  <img src="assets/focus-mindmap.png" alt="Rayyan's Focus Mindmap" width="800">
+  <img src="focus-mindmap.png" alt="Rayyan's Focus Mindmap" width="800">
 </p>
 
 ---
