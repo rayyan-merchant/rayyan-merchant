@@ -353,7 +353,28 @@ me.say_hi()
 </div>
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'darkMode':'true','primaryColor':'#7c3aed','primaryTextColor':'#ffffff','primaryBorderColor':'#a78bfa','secondaryColor':'#15803d','secondaryTextColor':'#ffffff','secondaryBorderColor':'#22c55e','tertiaryColor':'#9a3412','tertiaryTextColor':'#ffffff','tertiaryBorderColor':'#f97316','noteBkgColor':'#1f2937','noteTextColor':'#ffffff','fontSize':'16px'}}}%%
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'darkMode': true,
+    'primaryColor': '#7c3aed',
+    'primaryTextColor': '#ffffff',
+    'primaryBorderColor': '#a78bfa',
+
+    'secondaryColor': '#15803d',
+    'secondaryTextColor': '#ffffff',
+    'secondaryBorderColor': '#22c55e',
+
+    'tertiaryColor': '#9a3412',
+    'tertiaryTextColor': '#ffffff',
+    'tertiaryBorderColor': '#f97316',
+
+    'textColor': '#ffffff',
+    'nodeTextColor': '#ffffff',
+    'lineColor': '#9ca3af',
+    'fontSize': '16px'
+  }
+}}%%
 mindmap
   root((Rayyan's Focus))
     ML Projects
