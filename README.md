@@ -68,8 +68,6 @@ me.say_hi()
 ### 🛍️ Fashion E-Commerce ML System
 **End-to-end ML platform for e-commerce intelligence**
 
-> Hybrid Recommender · NLP Review Analytics · Time Series Forecasting · Customer Segmentation · Funnel Analytics
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
@@ -77,13 +75,12 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=meta&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
 
-**What I Built:**
-- ✅ **ETL Pipelines**: Engineered data integration workflows in PostgreSQL to clean, join, and aggregate multi-source transactional and behavioral data
-- ✅ **Hybrid Recommender System**: Built collaborative filtering + content-based + popularity-weighted recommendation engine
-- ✅ **NLP Review Intelligence**: Applied Sentence-BERT for sentiment analysis and topic extraction from customer reviews
-- ✅ **Demand Forecasting**: Implemented Prophet/ARIMA models with seasonal decomposition for category-level sales prediction
-- ✅ **Customer Segmentation**: Performed RFM analysis and K-means clustering for personalized marketing strategies
-- ✅ **Funnel Analytics**: Analyzed conversion funnels and user behavior patterns for optimization insights
+**✨ Highlights:**
+- 🎯 Hybrid recommender system
+- 📊 NLP sentiment analysis
+- 📈 Time Series demand forecasting
+- 👥 Customer segmentation
+- 🔄 ETL data pipelines
 
 **Role:** Team Lead  
 **Timeline:** Aug - Dec 2025
@@ -95,8 +92,6 @@ me.say_hi()
 
 ### 📊 Data Analytics Portfolio
 **Business-oriented analysis & visualization projects**
-
-> EDA · Statistical Analysis · Data Visualization · Business Intelligence · Data Storytelling
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -210,12 +205,12 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
 **✨ Highlights:**
-- ✅ **Task Management**: Create, organize, and track tasks with priorities and deadlines
-- ⏱️ **Time Tracking**: Pomodoro timer and productivity session tracking
-- 📝 **Notes & Ideas**: Quick capture and organization of thoughts and information
-- 📊 **Analytics Dashboard**: Visualize productivity patterns and completion rates
-- 🔐 **User Authentication**: Secure Firebase auth with multi-user support
-- ☁️ **Cloud Sync**: Real-time data synchronization across devices
+- ✅ **Task Management**: Create, organize, and track tasks
+- ⏱️ **Time Tracking**: Pomodoro timer tracking
+- 📝 **Notes & Ideas**: Quick capture and organization
+- 📊 **Analytics Dashboard**: Visualize productivity patterns
+- 🔐 **User Authentication**: Secure Firebase auth
+- ☁️ **Cloud Sync**: Real-time data synchronization
   
 **Context:** Fundamentals of Software Engineering Course Project  
 
