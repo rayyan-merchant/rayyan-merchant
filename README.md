@@ -343,25 +343,6 @@ I transform raw data and complex business problems into **production-ready syste
 
 ---
 
-## 💼 Professional Experience
-
-### AI Automation Engineer (Freelance)
-**Jan 2025 – Present | Remote**
-
-- 🤖 Design and deploy AI agents and workflow automation systems for business operations, lead handling, and customer support
-- 📄 Build LLM-based tools for document processing, data extraction, and RAG-powered retrieval systems
-- 🔗 Integrate no-code platforms (n8n, Zapier) with APIs, vector databases, and custom backends
-- 🎙️ Develop prototypes for vertical AI assistants, voice agents, and multi-step orchestration pipelines
-
-### Email Marketing Expert (Freelance)
-**Feb 2022 – Dec 2024 | Remote**
-
-- 📧 Managed cold outreach, newsletter campaigns, and drip sequences for multiple clients
-- ✍️ Delivered copywriting, audience segmentation, and deliverability optimization
-- 📈 Provided funnel analytics and performance tracking to increase conversion rates and ROI
-
----
-
 ## 🎯 What I'm Working On
 
 - 🧪 **Expanding ML Projects**: Building more end-to-end machine learning systems with deployment focus
