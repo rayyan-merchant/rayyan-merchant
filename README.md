@@ -68,6 +68,8 @@ me.say_hi()
 ### 🛍️ Fashion E-Commerce ML System
 **End-to-end ML platform for e-commerce intelligence**
 
+> Hybrid Recommender · NLP Review Analytics · Time Series Forecasting · Customer Segmentation · Funnel Analytics
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
@@ -75,12 +77,13 @@ me.say_hi()
 <img src="https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=meta&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
 
-**✨ Highlights:**
-- 🎯 Hybrid recommender system
-- 📊 NLP sentiment analysis
-- 📈 Time Series demand forecasting
-- 👥 Customer segmentation
-- 🔄 ETL data pipelines
+**What I Built:**
+- ✅ **ETL Pipelines**: Engineered data integration workflows in PostgreSQL to clean, join, and aggregate multi-source transactional and behavioral data
+- ✅ **Hybrid Recommender System**: Built collaborative filtering + content-based + popularity-weighted recommendation engine
+- ✅ **NLP Review Intelligence**: Applied Sentence-BERT for sentiment analysis and topic extraction from customer reviews
+- ✅ **Demand Forecasting**: Implemented Prophet/ARIMA models with seasonal decomposition for category-level sales prediction
+- ✅ **Customer Segmentation**: Performed RFM analysis and K-means clustering for personalized marketing strategies
+- ✅ **Funnel Analytics**: Analyzed conversion funnels and user behavior patterns for optimization insights
 
 **Role:** Team Lead  
 **Timeline:** Aug - Dec 2025
@@ -88,6 +91,37 @@ me.say_hi()
 [**🔗 View Project →**](https://github.com/Srijaali/ml-based_Fashion-Ecommerce/tree/main/database)
 
 </td>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics Portfolio
+**Business-oriented analysis & visualization projects**
+
+> EDA · Statistical Analysis · Data Visualization · Business Intelligence · Data Storytelling
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
+<img src="https://img.shields.io/badge/Seaborn-9cf?style=flat"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+
+**✨ Highlights:**
+- 📈 Exploratory data analysis
+- 📊 Statistical modeling
+- 🎨 Data visualization
+- 💼 Business intelligence
+- 📖 Data storytelling
+
+**Focus:** EDA & Insights  
+
+[**🔗 View Project →**](https://github.com/rayyan-merchant/Data-Analytics-Portfolio)
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 LifeMirror — AI Perception Engine
@@ -115,9 +149,6 @@ me.say_hi()
 [**🔗 View Project →**](https://github.com/rayyan-merchant/life-mirror)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 💬 Companion — Mental Health Reasoner
@@ -143,6 +174,9 @@ me.say_hi()
 [**🔗 View Project →**](https://github.com/rayyan-merchant/Companion-MentalHealth)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🗄️ SQL Data Warehouse Platform
@@ -164,35 +198,6 @@ me.say_hi()
 **Timeline:** 2025
 
 [**🔗 View Project →**](https://github.com/rayyan-merchant/SQL-DWH-Project)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data Analytics Portfolio
-**Business-oriented analysis & visualization projects**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
-<img src="https://img.shields.io/badge/Seaborn-9cf?style=flat"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-
-**✨ Highlights:**
-- 📈 Exploratory data analysis
-- 📊 Statistical modeling
-- 🎨 Data visualization
-- 💼 Business intelligence
-- 📖 Data storytelling
-
-**Focus:** EDA & Insights  
-
-[**🔗 View Project →**](https://github.com/rayyan-merchant/Data-Analytics-Portfolio)
 
 </td>
 <td width="50%" valign="top">
