@@ -68,14 +68,17 @@ me.say_hi()
 ### 🛍️ Fashion E-Commerce ML System
 **End-to-end ML platform for e-commerce intelligence**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
 
 **✨ Highlights:**
 - 🎯 Hybrid recommender system
 - 📊 NLP sentiment analysis
-- 📈 Prophet demand forecasting
+- 📈 Time Series demand forecasting
 - 👥 Customer segmentation
 - 🔄 ETL data pipelines
 
