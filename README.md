@@ -1,394 +1,399 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=header"/>
+<div align="center">
 
-<h1 align="center">Hi, I'm Rayyan 👋</h1>
-<h3 align="center">Data Scientist · ML Engineer · AI Systems Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=180&section=header&text=Rayyan%20Merchant&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-0f4c81?style=flat&logo=databricks&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-00ADD8?style=flat&logo=openai&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Analytics-4285F4?style=flat&logo=googleanalytics&logoColor=white" alt="Analytics"/>
+### 🚀 Data Scientist • ML Engineer • AI Systems Developer
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0f4c81&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Transforming+Data+into+Intelligence;Building+Production-Ready+ML+Systems;Designing+Multi-Agent+AI+Architectures" alt="Typing SVG" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Data%20Science-0f4c81?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-00ADD8?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Analytics"/>
+</p>
 
-## 🧩 About Me
-
-I'm a **Data Scientist and AI Engineer** who bridges the gap between **data-driven insights** and **intelligent automation**. My work spans the complete data-to-deployment pipeline:
-
-**🔬 Data Science & Analytics** → Exploratory analysis, statistical modeling, business intelligence, and data storytelling  
-**🤖 Machine Learning** → End-to-end ML pipelines for forecasting, classification, NLP, and recommender systems  
-**🧠 AI Systems & Agents** → Multi-agent orchestration, RAG systems, knowledge graphs, and reasoning engines  
-**⚙️ Data Engineering** → ETL pipelines, data warehousing, dimensional modeling, and database optimization
-
-I transform raw data and complex business problems into **production-ready systems, actionable insights, and intelligent solutions**.
+</div>
 
 ---
 
-## 📂 Featured Projects
+<div align="center">
+
+## 🎯 **About Me**
+
+</div>
+
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Rayyan Merchant"
+        self.role = "Data Scientist & AI Engineer"
+        self.location = "Building the Future with Data"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+        
+    def get_expertise(self):
+        return {
+            "data_science": ["EDA", "Statistical Modeling", "BI", "Data Storytelling"],
+            "machine_learning": ["Forecasting", "Classification", "NLP", "Recommenders"],
+            "ai_systems": ["Multi-Agent", "RAG", "Knowledge Graphs", "Reasoning"],
+            "data_engineering": ["ETL", "Data Warehousing", "Dimensional Modeling"]
+        }
+
+me = DataScientist()
+me.say_hi()
+```
+
+<div align="center">
+
+### 💡 I transform raw data and complex business problems into **production-ready systems**, **actionable insights**, and **intelligent solutions**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **Featured Projects**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Fashion E-Commerce ML System
+**End-to-end ML platform for e-commerce intelligence**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+**✨ Highlights:**
+- 🎯 Hybrid recommender system
+- 📊 NLP sentiment analysis
+- 📈 Prophet demand forecasting
+- 👥 Customer segmentation
+- 🔄 ETL data pipelines
+
+**Role:** Team Lead  
+**Timeline:** Aug - Dec 2025
+
+[**🔗 View Project →**](https://github.com/Srijaali/ml-based_Fashion-Ecommerce/tree/main/database)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LifeMirror — AI Perception Engine
+**Multi-agent AI for appearance analysis**
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square"/>
+
+**✨ Highlights:**
+- 👁️ YOLO vision models
+- 🤖 LangGraph orchestration
+- 🔍 pgVector semantic search
+- 📁 MinIO media storage
+- ⚡ Celery async processing
+
+**Status:** Side Project  
+**Timeline:** March 2025 - Ongoing
+
+[**🔗 View Project →**](https://github.com/rayyan-merchant/life-mirror)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Companion — Mental Health Reasoner
+**Knowledge graph-based chatbot with explainable reasoning**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/OWL-orange?style=flat-square"/>
+
+**✨ Highlights:**
+- 🧬 Custom OWL ontology
+- ⚙️ SWRL rule-based reasoning
+- 🔍 SPARQL semantic queries
+- 🎯 Causal explainability
+- 🚨 Risk detection system
+
+**Role:** Team Lead  
+**Timeline:** Oct - Nov 2025
+
+[**🔗 View Project →**](https://github.com/rayyan-merchant/Companion-MentalHealth)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ SQL Data Warehouse Platform
+**Enterprise data warehouse with dimensional modeling**
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/TSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+
+**✨ Highlights:**
+- 🏗️ Star schema design
+- 🔄 ETL pipelines
+- ⚡ Query optimization
+- 📊 Analytics layer
+- 🔐 Data governance
+
+**Skills:** Dimensional Modeling  
+**Timeline:** 2025
+
+[**🔗 View Project →**](https://github.com/rayyan-merchant/SQL-DWH-Project)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Analytics Portfolio
+**Business-oriented analysis & visualization projects**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+**✨ Highlights:**
+- 📈 Exploratory data analysis
+- 📊 Statistical modeling
+- 🎨 Data visualization
+- 💼 Business intelligence
+- 📖 Data storytelling
+
+**Focus:** EDA & Insights  
+
+[**🔗 View Project →**](https://github.com/rayyan-merchant/Data-Analytics-Portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare Predictive Analytics
+**ML models for disease prediction & diagnosis**
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+**✨ Highlights:**
+- 🫀 Heart disease classification
+- 💉 Diabetes prediction
+- 🧠 Parkinson's detection
+- 🎗️ Cancer classification
+- ⚖️ Imbalanced data handling
+
+**Context:** PAI Course Project  
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ **Technical Arsenal**
+
+</div>
 
 <details open>
-<summary><h3>🛍️ Fashion E-Commerce ML System</h3></summary>
-
-**End-to-end machine learning platform for e-commerce intelligence**
-
-> Hybrid Recommender · NLP Review Analytics · Demand Forecasting · Customer Segmentation · Funnel Analytics
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-</p>
-
-**What I Built:**
-- ✅ **ETL Pipelines**: Engineered data integration workflows in PostgreSQL to clean, join, and aggregate multi-source transactional and behavioral data
-- ✅ **Hybrid Recommender System**: Built collaborative filtering + content-based + popularity-weighted recommendation engine
-- ✅ **NLP Review Intelligence**: Applied Sentence-BERT for sentiment analysis and topic extraction from customer reviews
-- ✅ **Demand Forecasting**: Implemented Prophet/ARIMA models with seasonal decomposition for category-level sales prediction
-- ✅ **Customer Segmentation**: Performed RFM analysis and K-means clustering for personalized marketing strategies
-- ✅ **Funnel Analytics**: Analyzed conversion funnels and user behavior patterns for optimization insights
-
-**Role:** Team Lead | **Timeline:** Aug 2025 – Dec 2025
-
-🔗 **Repository:** [ml-based_Fashion-Ecommerce](https://github.com/Srijaali/ml-based_Fashion-Ecommerce/tree/main/database)
-
-</details>
-
----
-
-<details>
-<summary><h3>📊 Data Analytics Portfolio</h3></summary>
-
-**Collection of business-oriented data analysis and visualization projects**
-
-> EDA · Statistical Analysis · Data Visualization · Business Intelligence · Storytelling
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-9cf?style=flat"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-**Project Focus Areas:**
-- 📈 **Exploratory Data Analysis (EDA)**: Uncovering patterns, trends, and anomalies in complex datasets
-- 📊 **Statistical Analysis**: Hypothesis testing, correlation analysis, and statistical modeling
-- 🎨 **Data Visualization**: Creating compelling charts, dashboards, and visual narratives
-- 🔍 **Feature Engineering**: Transforming raw data into meaningful features for analysis
-- 💼 **Business Intelligence**: Translating data insights into actionable business recommendations
-- 📖 **Data Storytelling**: Communicating findings to both technical and non-technical stakeholders
-
-**Domains Covered:**
-- Sales and revenue analytics
-- Customer behavior and segmentation
-- Product performance analysis
-- Market trend analysis
-- Operational efficiency metrics
-
-🔗 **Repository:** [Data-Analytics-Portfolio](https://github.com/rayyan-merchant/Data-Analytics-Portfolio)
-
-</details>
-
----
-<details>
-<summary><h3>🧠 LifeMirror — AI Perception Engine</h3></summary>
-
-**Multi-agent AI system for appearance and social perception analysis**
-
-> Computer Vision · Multi-Agent Systems · Embeddings · Vector Search · Async Processing
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgVector-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white"/>
-</p>
-
-**System Architecture:**
-- 👁️ **Vision Models**: YOLO-based face detection, fashion analysis, and posture assessment
-- 🤖 **Multi-Agent Orchestration**: LangGraph workflow for coordinating specialized perception agents
-- 🔍 **Semantic Search**: pgVector for embedding-based similarity search and retrieval
-- 📁 **Media Management**: MinIO object storage for scalable media ingestion and processing
-- ⚡ **Async Processing**: Celery task queue with Redis broker for background analysis
-
-**Capabilities:**
-- Face appearance and expression analysis
-- Fashion style and clothing perception
-- Posture and body language assessment
-- Personalized improvement recommendations
-- Multi-modal perception fusion
-
-**Status:** Side Project (March 2025 – Ongoing)
-
-🔗 **Repository:** [life-mirror](https://github.com/rayyan-merchant/life-mirror)
-
-</details>
-
----
-
-<details>
-<summary><h3>💬 Companion — Ontology-Driven Mental Health Reasoner</h3></summary>
-
-**Knowledge graph-based mental health chatbot with explainable reasoning**
-
-> Knowledge Graphs · Ontology Engineering · Semantic Reasoning · Explainability · NLP
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OWL-orange?style=flat"/>
-  <img src="https://img.shields.io/badge/RDF-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/SPARQL-green?style=flat"/>
-</p>
-
-**Technical Implementation:**
-- 🧬 **Ontology Design**: Custom OWL ontology modeling emotions, symptoms, triggers, and mental health patterns
-- ⚙️ **Rule-Based Reasoning**: SWRL rules for inferring emotional states and symptom relationships
-- 🔍 **SPARQL Querying**: Semantic queries for pattern matching and knowledge retrieval
-- 🎯 **Explainability**: Causal "why" reasoning chains for transparent decision-making
-- 🚨 **Safety Alerts**: Risk detection for high-severity indicators requiring professional intervention
-- 💬 **Conversational UI**: React-based chat interface with interactive feedback
-
-**Use Cases:**
-- Emotional pattern recognition
-- Symptom tracking and correlation analysis
-- Personalized coping strategy recommendations
-- Explainable mental health insights
-
-**Role:** Team Lead | **Timeline:** Oct 2025 – Nov 2025
-
-🔗 **Repository:** [Companion-MentalHealth](https://github.com/rayyan-merchant/Companion-MentalHealth)
-
-</details>
-
----
-
-<details>
-<summary><h3>🗄️ SQL Data Warehouse & Analytics Platform</h3></summary>
-
-**Scalable enterprise data warehouse with dimensional modeling**
-
-> ETL Workflows · Dimensional Modeling · Query Optimization · BI Infrastructure
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Warehousing-0f4c81?style=flat"/>
-  <img src="https://img.shields.io/badge/ETL-4285F4?style=flat"/>
-</p>
-
-**What I Built:**
-- 🏗️ **Star Schema Design**: Designed fact and dimension tables following Kimball methodology for analytical queries
-- 🔄 **ETL Pipeline**: Built extraction, transformation, and loading workflows for multi-source data integration
-- ⚡ **Query Optimization**: Implemented indexing strategies and materialized views for sub-second query performance
-- 📊 **Analytics Layer**: Created aggregated fact tables and analytical views for BI tools and reporting
-- 🔐 **Data Quality**: Implemented constraints, validation rules, and referential integrity for data governance
-
-**Demonstrated Skills:**
-- Dimensional modeling (star schema, snowflake schema)
-- Complex SQL queries (CTEs, window functions, subqueries)
-- Database performance tuning and optimization
-- Data warehouse architecture and best practices
-
-🔗 **Repository:** [SQL-DWH-Project](https://github.com/rayyan-merchant/SQL-DWH-Project)
-
-</details>
-
----
-
-<details>
-<summary><h3>🏥 Healthcare Predictive Analytics Suite</h3></summary>
-
-**Machine learning models for disease prediction and medical diagnosis**
-
-> Classification · Feature Engineering · Model Optimization · Healthcare ML
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-</p>
-
-**Disease Prediction Systems:**
-- 🫀 **Heart Disease Classification**: Logistic regression and random forest models for cardiovascular risk prediction
-- 💉 **Diabetes Prediction**: Ensemble models with hyperparameter tuning for early diabetes detection
-- 🧠 **Parkinson's Detection**: ML classifiers trained on vocal biomarkers for Parkinson's disease screening
-- 🎗️ **Breast Cancer Classification**: Binary classification models for malignant vs benign tumor prediction
-
-**Key Techniques:**
-- Feature engineering and selection for clinical datasets
-- Cross-validation and model evaluation metrics (AUC-ROC, F1-score, precision/recall)
-- Hyperparameter optimization for improved accuracy
-- Medical data preprocessing and handling imbalanced datasets
-
-**Context:** PAI Course Project (Principles of Artificial Intelligence)
-
-</details>
-
-
----
-
-<details>
-<summary><h3>🗂️ Prodigy — Full-Stack Productivity Tool</h3></summary>
-
-**Modern productivity app with task management, timers, and analytics**
-
-> Full-Stack Development · Firebase · React · UX Design
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
-
-**Features:**
-- ✅ **Task Management**: Create, organize, and track tasks with priorities and deadlines
-- ⏱️ **Time Tracking**: Pomodoro timer and productivity session tracking
-- 📝 **Notes & Ideas**: Quick capture and organization of thoughts and information
-- 📊 **Analytics Dashboard**: Visualize productivity patterns and completion rates
-- 🔐 **User Authentication**: Secure Firebase auth with multi-user support
-- ☁️ **Cloud Sync**: Real-time data synchronization across devices
-
-**Tech Stack:**
-- Frontend: React, TypeScript, modern CSS
-- Backend: Firebase (Auth, Firestore, Hosting)
-- Design: Clean UX with intuitive workflows
-
-🔗 **Repository:** [Prodigy-Productivity-Tool](https://github.com/rayyan-merchant/Prodigy-Productivity-Tool)
-
-</details>
-
----
-
-## 🛠️ Technical Stack
-
-### 📊 Data Science & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
-  <img src="https://img.shields.io/badge/Seaborn-9cf?style=flat"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Statistics-red?style=flat"/>
-</p>
-
-**Skills:** Exploratory Data Analysis · Statistical Modeling · Data Visualization · Feature Engineering · Business Intelligence · Data Storytelling
-
-### 🤖 Machine Learning & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Prophet-1877F2?style=flat&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-</p>
-
-**Skills:** Classification · Regression · Clustering · NLP · Recommender Systems · Time Series Forecasting · Model Evaluation · Hyperparameter Tuning
-
-### 🧠 AI Systems & Agents
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=flat"/>
-  <img src="https://img.shields.io/badge/LangGraph-121212?style=flat"/>
-  <img src="https://img.shields.io/badge/RAG-00ADD8?style=flat"/>
-  <img src="https://img.shields.io/badge/Embeddings-orange?style=flat"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-green?style=flat"/>
-</p>
-
-**Skills:** Multi-Agent Systems · Retrieval-Augmented Generation · Vector Databases · Semantic Search · Knowledge Graphs · Reasoning Engines
-
-### 🗄️ Databases & Data Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgVector-4169E1?style=flat"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
-
-**Skills:** Data Warehousing · Dimensional Modeling · ETL Pipelines · Query Optimization · Database Design
-
-### ⚙️ Backend & Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-</p>
-
-**Skills:** REST APIs · Async Processing · Containerization · Version Control
-
-### 🔧 Automation & Integration
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white"/>
-</p>
-
-**Skills:** Workflow Automation · API Integrations · LLM-based Automation · Business Process Automation
-
----
-
-## 🎯 What I'm Working On
-
-- 🧪 **Expanding ML Projects**: Building more end-to-end machine learning systems with deployment focus
-- 📊 **Data Science Deep Dives**: Creating advanced analytics projects with statistical modeling and A/B testing
-- 🤖 **AI Agent Development**: Designing vertical AI assistants and autonomous agent systems
-- 🔬 **Deep Learning**: Exploring computer vision and advanced neural network architectures
-- 🚀 **MLOps**: Learning production ML deployment patterns and monitoring
-
----
-
-## 📄 Resume
+<summary><b>📊 Data Science & Analytics</b></summary>
+<br>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1QRO9eHY34QbT-WV2sDyXYKi1uEnZ8r2E/view" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20View%20Resume-0f4c81?style=for-the-badge&logoColor=white" alt="View Resume"/>
-  </a>
-  <a href="https://docs.google.com/document/d/1QRO9eHY34QbT-WV2sDyXYKi1uEnZ8r2E/export?format=pdf" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20PDF-217346?style=for-the-badge&logoColor=white" alt="Download PDF"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height="40" alt="Matplotlib"/>
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn"/>
 </p>
+
+<p align="center">
+  <b>Skills:</b> Exploratory Data Analysis • Statistical Modeling • Data Visualization • Feature Engineering • Business Intelligence • Data Storytelling
+</p>
+
+</details>
+
+<details open>
+<summary><b>🤖 Machine Learning & AI</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="Hugging Face"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow"/>
+</p>
+
+<p align="center">
+  <b>Skills:</b> Classification • Regression • Clustering • NLP • Recommender Systems • Time Series Forecasting • Model Evaluation • Hyperparameter Tuning
+</p>
+
+</details>
+
+<details open>
+<summary><b>🧠 AI Systems & Agents</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Vector_DB-orange?style=for-the-badge" alt="Vector DB"/>
+</p>
+
+<p align="center">
+  <b>Skills:</b> Multi-Agent Systems • Retrieval-Augmented Generation • Vector Databases • Semantic Search • Knowledge Graphs • Reasoning Engines
+</p>
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Data Engineering</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase"/>
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="SQL"/>
+</p>
+
+<p align="center">
+  <b>Skills:</b> Data Warehousing • Dimensional Modeling • ETL Pipelines • Query Optimization • Database Design
+</p>
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Infrastructure</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+</p>
+
+<p align="center">
+  <b>Skills:</b> REST APIs • Async Processing • Containerization • Version Control
+</p>
+
+</details>
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyan-merchant&layout=compact&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayyan-merchant&show_icons=true&theme=default&hide_border=true"/>
-</p>
+## 🎯 **Current Focus**
+
+</div>
+
+```mermaid
+mindmap
+  root((Rayyan's Focus))
+    ML Projects
+      End-to-end Systems
+      Production Deployment
+      Model Monitoring
+    Data Science
+      Advanced Analytics
+      Statistical Modeling
+      A/B Testing
+    AI Agents
+      Vertical Assistants
+      Autonomous Systems
+      Multi-Agent Orchestration
+    Deep Learning
+      Computer Vision
+      Neural Architectures
+      Transfer Learning
+```
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
+## 📊 **GitHub Analytics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rayyan-merchant&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0f4c81&icon_color=0f4c81&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayyan-merchant&theme=radical&hide_border=true&background=0D1117&ring=0f4c81&fire=0f4c81&currStreakLabel=0f4c81" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayyan-merchant&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0f4c81&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayyan-merchant&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=0f4c81&line=0f4c81&point=c9d1d9" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📄 **Resume**
+
+<a href="https://docs.google.com/document/d/1QRO9eHY34QbT-WV2sDyXYKi1uEnZ8r2E/view" target="_blank">
+  <img src="https://img.shields.io/badge/📄_View_Resume-0f4c81?style=for-the-badge&logoColor=white" alt="View Resume"/>
+</a>
+<a href="https://docs.google.com/document/d/1QRO9eHY34QbT-WV2sDyXYKi1uEnZ8r2E/export?format=pdf" target="_blank">
+  <img src="https://img.shields.io/badge/⬇️_Download_PDF-217346?style=for-the-badge&logoColor=white" alt="Download PDF"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate**
+
+<p>
   <a href="https://www.linkedin.com/in/rayyanmerchant2004/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f4c81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0f4c81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:merchantrayyan43@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/rayyan-merchant">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+### 💬 **Open to collaborating on:**
+Data Science Projects • ML Systems • AI Agents • Open Source Contributions
+
+<img src="https://komarev.com/ghpvc/?username=rayyan-merchant&label=Profile%20Views&color=0f4c81&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f4c81&height=120&section=footer"/>
+<div align="center">
+
+**"Data is the new oil, but insights are the refined fuel that drives innovation"** 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=120&section=footer"/>
+
+</div>
