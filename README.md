@@ -93,9 +93,14 @@ me.say_hi()
 ### 🧠 LifeMirror — AI Perception Engine
 **Multi-agent AI for appearance analysis**
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgVector-4169E1?style=flat"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white"/>
 
 **✨ Highlights:**
 - 👁️ YOLO vision models
@@ -118,10 +123,13 @@ me.say_hi()
 ### 💬 Companion — Mental Health Reasoner
 **Knowledge graph-based chatbot with explainable reasoning**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/OWL-orange?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/OWL-orange?style=flat"/>
+<img src="https://img.shields.io/badge/RDF-blue?style=flat"/>
+<img src="https://img.shields.io/badge/SPARQL-green?style=flat"/>
+  
 **✨ Highlights:**
 - 🧬 Custom OWL ontology
 - ⚙️ SWRL rule-based reasoning
@@ -140,8 +148,10 @@ me.say_hi()
 ### 🗄️ SQL Data Warehouse Platform
 **Enterprise data warehouse with dimensional modeling**
 
-<img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/TSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/TSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Warehousing-0f4c81?style=flat"/>
+<img src="https://img.shields.io/badge/ETL-4285F4?style=flat"/>
 
 **✨ Highlights:**
 - 🏗️ Star schema design
@@ -164,9 +174,14 @@ me.say_hi()
 ### 📊 Data Analytics Portfolio
 **Business-oriented analysis & visualization projects**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat"/>
+<img src="https://img.shields.io/badge/Seaborn-9cf?style=flat"/>
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 
 **✨ Highlights:**
 - 📈 Exploratory data analysis
@@ -182,20 +197,25 @@ me.say_hi()
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Healthcare Predictive Analytics
-**ML models for disease prediction & diagnosis**
+### 🗂️ Prodigy — Full-Stack Productivity Tool
+**Modern productivity app with task management, timers, and analytics**
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 
 **✨ Highlights:**
-- 🫀 Heart disease classification
-- 💉 Diabetes prediction
-- 🧠 Parkinson's detection
-- 🎗️ Cancer classification
-- ⚖️ Imbalanced data handling
+- ✅ **Task Management**: Create, organize, and track tasks with priorities and deadlines
+- ⏱️ **Time Tracking**: Pomodoro timer and productivity session tracking
+- 📝 **Notes & Ideas**: Quick capture and organization of thoughts and information
+- 📊 **Analytics Dashboard**: Visualize productivity patterns and completion rates
+- 🔐 **User Authentication**: Secure Firebase auth with multi-user support
+- ☁️ **Cloud Sync**: Real-time data synchronization across devices
+  
+**Context:** Fundamentals of Software Engineering Course Project  
 
-**Context:** PAI Course Project  
+[**🔗 View Project →**](https://github.com/rayyan-merchant/Prodigy-Productivity-Tool)
+)
 
 </td>
 </tr>
