@@ -354,33 +354,37 @@ me.say_hi()
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
-mindmap
-  root((Rayyan's Focus))
-    ML Projects
-      End-to-end Systems
-      Production Deployment
-      Model Monitoring
-    Data Science
-      Advanced Analytics
-      Statistical Modeling
-      A/B Testing
-    AI Agents
-      Vertical Assistants
-      Autonomous Systems
-      Multi-Agent Orchestration
-    Deep Learning
-      Computer Vision
-      Neural Architectures
-      Transfer Learning
-      NLP
+flowchart LR
+    R["Rayyan's Focus"]
 
-classDef rootStyle fill:#22c55e,color:#ffffff,stroke:#16a34a,stroke-width:2px;
-classDef branch fill:#7c3aed,color:#ffffff,stroke:#a78bfa,stroke-width:1.5px;
-classDef node fill:#1f2937,color:#ffffff,stroke:#9ca3af;
+    R --> ML["ML Projects"]
+    ML --> E2E["End-to-end Systems"]
+    ML --> PD["Production Deployment"]
+    ML --> MM["Model Monitoring"]
 
-class root rootStyle;
-class "ML Projects","Data Science","AI Agents","Deep Learning" branch;
-class "End-to-end Systems","Production Deployment","Model Monitoring","Advanced Analytics","Statistical Modeling","A/B Testing","Vertical Assistants","Autonomous Systems","Multi-Agent Orchestration","Computer Vision","Neural Architectures","Transfer Learning","NLP" node;
+    R --> DS["Data Science"]
+    DS --> AA["Advanced Analytics"]
+    DS --> SM["Statistical Modeling"]
+    DS --> AB["A/B Testing"]
+
+    R --> AG["AI Agents"]
+    AG --> VA["Vertical Assistants"]
+    AG --> AS["Autonomous Systems"]
+    AG --> MA["Multi-Agent Orchestration"]
+
+    R --> DL["Deep Learning"]
+    DL --> CV["Computer Vision"]
+    DL --> NA["Neural Architectures"]
+    DL --> TL["Transfer Learning"]
+    DL --> NLP["NLP"]
+
+    classDef root fill:#22c55e,color:#ffffff,stroke:#16a34a,stroke-width:2px;
+    classDef branch fill:#7c3aed,color:#ffffff;
+    classDef node fill:#1f2937,color:#ffffff;
+
+    class R root;
+    class ML,DS,AG,DL branch;
+    class E2E,PD,MM,AA,SM,AB,VA,AS,MA,CV,NA,TL,NLP node;
 
 
 ```
