@@ -15,7 +15,9 @@
 
 <br/>
 
----
+
+
+<div align="center">
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0f4c81&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Transforming+Data+into+Intelligence;Building+Production-Ready+ML+Systems;Designing+Multi-Agent+AI+Architectures" alt="Typing SVG" />
