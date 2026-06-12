@@ -16,18 +16,12 @@
 <br/>
 
 ---
-### 🚀 Data Scientist • ML Engineer • AI Systems Developer
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0f4c81&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Transforming+Data+into+Intelligence;Building+Production-Ready+ML+Systems;Designing+Multi-Agent+AI+Architectures" alt="Typing SVG" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Data%20Science-0f4c81?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-00ADD8?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Analytics"/>
-</p>
+
 
 </div>
 
