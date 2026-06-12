@@ -1,7 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12&height=180&section=header&text=Rayyan%20Merchant&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<!-- Animated topological cognitive map banner (stored in this repo as banner.svg) -->
+<img width="100%" src="banner.svg" alt="Rayyan Merchant — AI/ML Engineer · Researcher in Training"/>
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanmerchant2004/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:merchantrayyan43@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rayyan-merchant)
+
+</div>
+
+<br/>
+
+---
 ### 🚀 Data Scientist • ML Engineer • AI Systems Developer
 
 <p>
