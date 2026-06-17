@@ -31,7 +31,7 @@
 
 <div align="center">
 
-## 🎯 **About Me**
+## **About Me**
 
 </div>
 
@@ -59,7 +59,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💡 I transform raw data and complex business problems into **production-ready systems**, **actionable insights**, and **intelligent solutions**
+### I transform raw data and complex business problems into **production-ready systems**, **actionable insights**, and **intelligent solutions**
 
 </div>
 
@@ -67,7 +67,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🏆 **Featured Projects**
+## **Featured Projects**
 
 </div>
 
@@ -235,7 +235,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🛠️ **Technical Arsenal**
+##  **Technical Arsenal**
 
 </div>
 
@@ -358,7 +358,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🎯 **Current Focus**
+## **Current Focus**
 
 </div>
 
@@ -371,7 +371,7 @@ me.say_hi()
 
 <div align="center">
 
-## 📊 **GitHub Analytics**
+##  **GitHub Analytics**
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rayyan-merchant&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0f4c81&icon_color=0f4c81&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayyan-merchant&theme=radical&hide_border=true&background=0D1117&ring=0f4c81&fire=0f4c81&currStreakLabel=0f4c81" />
@@ -385,7 +385,7 @@ me.say_hi()
 
 <div align="center">
 
-## 📄 **Resume**
+## **Resume**
 
 <a href="https://docs.google.com/document/d/1QRO9eHY34QbT-WV2sDyXYKi1uEnZ8r2E/view" target="_blank">
   <img src="https://img.shields.io/badge/📄_View_Resume-0f4c81?style=for-the-badge&logoColor=white" alt="View Resume"/>
@@ -400,7 +400,7 @@ me.say_hi()
 
 <div align="center">
 
-## 🤝 **Let's Connect & Collaborate**
+## **Let's Connect & Collaborate**
 
 <p>
   <a href="https://www.linkedin.com/in/rayyanmerchant2004/">
@@ -414,7 +414,7 @@ me.say_hi()
   </a>
 </p>
 
-### 💬 **Open to collaborating on:**
+###  **Open to collaborating on:**
 Data Science Projects • ML Systems • AI Agents • Open Source Contributions
 
 <img src="https://komarev.com/ghpvc/?username=rayyan-merchant&label=Profile%20Views&color=0f4c81&style=for-the-badge" alt="Profile Views" />
